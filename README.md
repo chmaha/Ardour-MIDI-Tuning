@@ -1,0 +1,1 @@
+Ardour (via Lua) currently only has separate A4 pitch setting or scala-to-MIDI tuning. The lua file provided here allows for both reference pitch and scala tuning - extremely useful for baroque keyboardists wanting something like A=415 Kirnberger III.
