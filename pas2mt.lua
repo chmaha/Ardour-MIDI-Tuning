@@ -1,6 +1,6 @@
 ardour {
 	["type"]    = "EditorAction",
-	name        = "Scala to MIDI Tuning",
+	name        = "Set reference pitch and scala tuning",
 	license     = "MIT",
 	author      = "Ardour Team / chmaha",
 	description = [[Set pitch, Read scala (.scl) tuning from a file, generate MIDI tuning standard (MTS) messages and send them to a MIDI port]]
